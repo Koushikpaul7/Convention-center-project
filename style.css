@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.banner-img{
+    width: 100%;
+    height: 600px;
+}
+.slider-paragraph{
+    color: gold
+}
