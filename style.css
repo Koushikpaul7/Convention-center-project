@@ -15,6 +15,15 @@ body{
 .package-space{
     margin-bottom: 200px;
 }
+.package-space2{
+    margin-bottom: 400px;
+}
 .item-highlight{
     margin-top: -100px;
+}
+.copyright-move{
+    margin-top: 60px;
+}
+.content-move{
+    margin-left: 100px;
 }
